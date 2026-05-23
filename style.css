@@ -1,0 +1,55 @@
+.font-playfair-display {
+  font-family: "Playfair Display", serif;
+}
+
+.font-plus-jakarta-sans {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.text-primary {
+  color: #7b5455;
+}
+
+.bg-primary {
+  background-color: #7b5455;
+}
+
+.border-primary {
+  border: #7b5455 1px;
+}
+
+.text-secondary {
+  color: #534747;
+}
+
+.bg-secondary {
+  background-color: #534747;
+}
+
+.text-tertiary {
+  color: #fcf1ef;
+}
+
+.bg-tertiary {
+  background-color: #fcf1ef;
+}
+
+.text-quaternary  {
+  color: #f4c2c2;
+}
+
+.bg-quaternary  {
+  background-color: #f4c2c2;
+}
+
+.bg-gray {
+  background-color: #ebdfdf;
+}
+
+.text-gray {
+  color: #ebdfdf;
+}
+
+.icon-fill {
+  font-variation-settings: 'FILL' 1;
+}
